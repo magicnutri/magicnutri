@@ -1,0 +1,8 @@
+{
+  "name": "Magic Nutri — Smart QR Food Ordering & Rewards",
+  "description": "Mobile-first healthy diet food ordering platform with instant QR ordering, pay-at-counter, digital scratch card rewards, and loyalty program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
